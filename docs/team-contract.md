@@ -1,9 +1,9 @@
 # Team Contract: <team name>
 
 **Project:** Iternal Workforce
-**Members:** Kadin Lee-Smith
+**Members:** Kadin Lee-Smith, Andrew York
 **Repository:** <url>, owned by Andrew
-**Signed:** Kadin Lee-Smith
+**Signed:** Kadin Lee-Smith, Andrew York
 
 ## 1. Meeting time
 
