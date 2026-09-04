@@ -1,0 +1,9 @@
+node_modules/
+.wrangler/
+.dev.vars
+dist/
+*.log
+
+# session-local browser-pane launcher (points at a per-session scratchpad script)
+.claude/launch.json
+.claude/settings.local.json
