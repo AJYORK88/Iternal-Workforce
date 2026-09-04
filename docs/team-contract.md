@@ -53,6 +53,7 @@ Still unresolved: we escalate to our TA, then to the instructor. We escalate ear
 
 ## Signatures
 Kadin Lee-Smith
+Tee Moo, 09/04/2026
 Each member adds their own line, in their own commit.
 
 - <name>, <date>
