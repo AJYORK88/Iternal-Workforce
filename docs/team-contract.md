@@ -7,8 +7,8 @@
 
 ## 1. Meeting time
 
-We meet every Tuesday and Thursday at 8:30 in the university union, and every Friday at noon virtually with Iternal.
-A member who cannot attend tells the team at least a day in advance and reads the minutes.
+We meet every Tuesday and Thursday at 8:30pm and Friday at 12:00pm in person, for 2 hours.
+A member who cannot attend tells the team 24 hours ahead and reads the minutes.
 
 ## 2. Communication
 
@@ -52,6 +52,8 @@ If it happens again: the rest of the team will discuss our course of action.
 Still unresolved: we escalate to our TA, then to the instructor. We escalate early.
 
 ## Signatures
+Kadin Lee-Smith
+Tee Moo, 09/04/2026
 Each member adds their own line, in their own commit.
 
 Kadin Lee-Smith, 9/04/26
