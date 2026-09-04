@@ -57,3 +57,4 @@ Each member adds their own line, in their own commit.
 Kadin Lee-Smith, 9/04/26
 Andrew York, 9/04/26
 Tee Moo, 09/04/2026
+Benjamin Kabondo, 9/04/26
