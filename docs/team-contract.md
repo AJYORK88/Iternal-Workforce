@@ -52,9 +52,8 @@ If it happens again: the rest of the team will discuss our course of action.
 Still unresolved: we escalate to our TA, then to the instructor. We escalate early.
 
 ## Signatures
-Kadin Lee-Smith
-Tee Moo, 09/04/2026
 Each member adds their own line, in their own commit.
 
 Kadin Lee-Smith, 9/04/26
 Andrew York, 9/04/26
+Tee Moo, 09/04/2026
