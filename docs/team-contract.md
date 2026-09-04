@@ -1,9 +1,9 @@
 # Team Contract: <team name>
 
 **Project:** Iternal Workforce
-**Members:** Kadin Lee-Smith, Andrew York
+**Members:** Kadin Lee-Smith, Andrew York, Sebastian Tran
 **Repository:** <url>, owned by Andrew
-**Signed:** Kadin Lee-Smith, Andrew York
+**Signed:** Kadin Lee-Smith, Andrew York, Sebastian Tran
 
 ## 1. Meeting time
 
@@ -58,4 +58,5 @@ Kadin Lee-Smith, 9/04/26
 Andrew York, 9/04/26
 Tee Moo, 09/04/2026
 Benjamin Kabondo, 9/04/26
+Sebastian Tran, 9/04/26
 Austin Price, 09/04/26
