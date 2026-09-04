@@ -7,8 +7,8 @@
 
 ## 1. Meeting time
 
-We meet every **<day>** at **<time>** in **<place or link>**, for <duration>.
-A member who cannot attend tells the team **<how far ahead>** and reads the minutes.
+We meet every Tuesday and Thursday at 8:30pm and Friday at 12:00pm in person, for 2 hours.
+A member who cannot attend tells the team 24 hours ahead and reads the minutes.
 
 ## 2. Communication
 
