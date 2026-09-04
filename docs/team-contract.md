@@ -7,13 +7,13 @@
 
 ## 1. Meeting time
 
-We meet every **<day>** at **<time>** in **<place or link>**, for <duration>.
-A member who cannot attend tells the team **<how far ahead>** and reads the minutes.
+We meet every Tuesday and Thursday at 8:30 in the university union, and every Friday at noon virtually with Iternal.
+A member who cannot attend tells the team at least a day in advance and reads the minutes.
 
 ## 2. Communication
 
-Primary channel: **<Slack channel>**. Client contact goes through **<name>**.
-We reply within **<n>** hours on weekdays. Anything urgent: **<how>**.
+Primary channel: Iternal slack. Client contact goes through Andrew York primarily.
+We reply within 2 hours on weekdays. Anything urgent: 1.
 
 ## 3. How we decide
 
@@ -48,11 +48,11 @@ Additional limits we agree on: **<anything else>**.
 ## 7. When someone does not deliver
 
 First: **<who raises it, and how soon>**. We attack the problem, not the person.
-If it happens again: **<what the team does>**.
+If it happens again: the rest of the team will discuss our course of action.
 Still unresolved: we escalate to our TA, then to the instructor. We escalate early.
 
 ## Signatures
-Kadin Lee-Smith
 Each member adds their own line, in their own commit.
 
-- <name>, <date>
+Kadin Lee-Smith, 9/04/26
+Andrew York, 9/04/26
